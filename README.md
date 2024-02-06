@@ -24,7 +24,7 @@
 ## 项目地址
 前端：http://github.com/ysx-20061105/user-center-frontend
 
-后端端：http://github.com/ysx-20061105/user-center-backend
+后端：http://github.com/ysx-20061105/user-center-backend
 
 
 ## 展示
